@@ -1,0 +1,30 @@
+
+* {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+
+    box-sizing: border-box; /* Assicura che padding e bordi siano inclusi nella dimensione */
+}
+.header img, span{
+    vertical-align: middle;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.header span{
+
+    vertical-align: middle;
+    font-size: 50px;
+    font-weight: 1000;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.main{
+    background-color: hsl(0, 0%, 90%);
+
+}
+.container{
+    background-color: white;
+}
